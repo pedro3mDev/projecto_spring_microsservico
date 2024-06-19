@@ -1,0 +1,19 @@
+*.class
+
+#SSH Chaves#
+*.pem
+*.ppk
+
+#Arquivos de Pacotes#
+*.jar
+*.war
+*.ear
+
+
+
+
+
+
+
+
+
